@@ -1,6 +1,5 @@
 # Css Grid
 Simple one pager css grid  
-<<<<<<< HEAD
 Sharpening my skills on the responsivesness using the CSS grid with media queries.  
 
 
@@ -43,7 +42,3 @@ Tools:
 ## Contributors
 
 Mogammad Taariq Bardien - 2018
-=======
-Sharpening my skills on the responsivesness using the CSS grid with media queries  
-website link https://mogammadtaariqbardien.github.io/cssgrid/
->>>>>>> f1de9550b6671e9dd64fa40f4bf5897660d6927c
